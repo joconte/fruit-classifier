@@ -10,6 +10,7 @@ Ce projet a été réalisé dans le cadre d'un workshop à l'EPSI Montpellier : 
 Il s'agit de la partie entrainement de l'IA.
 
 Projet sur l'entrainement du modèle : https://github.com/joconte/fruit-classifier
+
 Projet sur le front-end : A ajouter
 
 # Outils utilisés
