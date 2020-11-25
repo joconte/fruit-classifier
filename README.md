@@ -11,7 +11,7 @@ Il s'agit de la partie entrainement de l'IA.
 
 Projet sur le back-end : https://github.com/joconte/ai-fruit-api
 
-Projet sur le front-end : A ajouter
+Projet sur le front-end : https://github.com/F5N34/fruit-recognizer
 
 # Outils utilisés
 - FastAI
